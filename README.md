@@ -7,9 +7,9 @@
 [Keypirinha QR Code](https://github.com/thisisleobro/Keypirinha-qrcode),
 etc...
 
-- 🌍 My [Personal Website](https://carvalho.cv) built using [Astro](https://astro.build/) available in Portuguese and English
+- 🌍 My [Personal Website](https://carvalho.cv) built using [Astro](https://astro.build/). Available in Portuguese and English
 
-- 🎓 I am familiar with JavaScript/TypeScript, Astro, Python and C#
+- 🎓 I am familiar with JavaScript/TypeScript, Python and C#.
 <!--
 if you like what i do, maybe consider buying me a coffee.
 **thisisleobro/thisisleobro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
