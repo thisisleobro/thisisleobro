@@ -1,6 +1,17 @@
-## Hi there 👋
+### Hello there 👋
 
+**I build stuff in my free time.**
+
+- ⚙️ Created
+[Docker Flow Launcher](https://github.com/thisisleobro/docker-flow-launcher-plugin),
+[Keypirinha QR Code](https://github.com/thisisleobro/Keypirinha-qrcode),
+etc...
+
+- 🌍 My [Personal Website](https://carvalho.cv) built using [Astro](https://astro.build/) available in Portuguese and English
+
+- 🎓 I am familiar with JavaScript/TypeScript, Astro, Python and C#
 <!--
+if you like what i do, maybe consider buying me a coffee.
 **thisisleobro/thisisleobro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
