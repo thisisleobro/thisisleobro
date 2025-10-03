@@ -2,17 +2,16 @@
 
 **I build stuff in my free time.**
 
-- 🛠️ Created
-[markview](https://github.com/thisisleobro/markview),
-[Docker Flow Launcher](https://github.com/thisisleobro/docker-flow-launcher-plugin),
-[Keypirinha QR Code](https://github.com/thisisleobro/Keypirinha-qrcode),
-etc...
+🛠️ Created
+- [markview](https://github.com/thisisleobro/markview) - A fast, less than 5 MB, markdown viewer,
+- [Docker Flow Launcher](https://github.com/thisisleobro/docker-flow-launcher-plugin) - Manage Docker. List containers, images from Flow Launcher ,
+- [Keypirinha QR Code](https://github.com/thisisleobro/Keypirinha-qrcode) - A Plugin to convert text to QR Code from Keypirinha,
+- [carvalho.cv](https://carvalho.cv) - My personal portfolio built using [Astro](https://astro.build/). Available in Portuguese and English
+- etc...
 
-- 🌍 My [Personal Website](https://carvalho.cv) built using [Astro](https://astro.build/). Available in Portuguese and English
+🎓 I am familiar with JavaScript/TypeScript, Python and C#.
 
-- 🎓 I am familiar with JavaScript/TypeScript, Python and C#.
-
-If you like the work i do, maybe consider buying me a coffee. <a href="https://www.ko-fi.com/thisisleobro" target="_blank"><img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_beige.png" alt="Buy Me A Coffee" style="height: 20px !important;" ></a>
+☕ If you like the work i do, maybe consider buying me a coffee. <a href="https://www.ko-fi.com/thisisleobro" target="_blank"><img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_beige.png" alt="Buy Me A Coffee" style="height: 20px !important;" ></a>
 
 <!--
 **thisisleobro/thisisleobro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
